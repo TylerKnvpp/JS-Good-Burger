@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Grass-Fed",
+      "description": "Grass-fed beef with some good stuff",
+      "image": "https://communityfood.coop/wp-content/uploads/2019/05/AdobeStock_61600915-crop-399.jpg",
+      "id": 12
+    },
+    {
+      "name": "asdf",
+      "description": "asdf",
+      "image": "https://www.gessato.com/wp-content/uploads/2015/07/best_5_grass_fed_burgers_usa_burger_lounge.jpg",
+      "id": 13
     }
   ]
 }
